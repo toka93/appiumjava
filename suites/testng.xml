@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAll" verbose="1">
+	
+<test name="SaltoMobileAutomation">
+
+		<classes>
+			
+		<class name="tests.AppTests"/>
+		
+		</classes>
+	</test>
+
+</suite>
